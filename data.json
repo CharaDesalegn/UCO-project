@@ -1,0 +1,9 @@
+{
+  "bankAccount": 3200,
+  "thisWeek": 580,
+  "charity": [
+    { "grade": "10", "amount": 450, "date": "2025-10-18" },
+    { "grade": "11", "amount": 620, "date": "2025-10-18" },
+    { "grade": "12", "amount": 730, "date": "2025-10-18" }
+  ]
+}
